@@ -32,8 +32,7 @@ A comprehensive, modern Task Management System built with Laravel 10. Designed t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/task-management.git
-   cd task-management
+   git clone https://github.com/jenanabdulaziz/Task-Management-System.git
    ```
 
 2. **Install Dependencies**
